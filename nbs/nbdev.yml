@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Taller_nbdev"
+  site-url: "https://msalazarcgeo.github.io/Taller_nbdev"
+  description: "taller_nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/Taller_nbdev"
