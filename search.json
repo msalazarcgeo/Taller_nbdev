@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taller_nbdev",
+    "section": "",
+    "text": "Este archivo es el que usamos para su modificación",
+    "crumbs": [
+      "Taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#todavia-no",
+    "href": "index.html#todavia-no",
+    "title": "Taller_nbdev",
+    "section": "Todavia no",
+    "text": "Todavia no\nAquí explicaremos como ppodemos instalar nuestra biblioteca",
+    "crumbs": [
+      "Taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "index.html#y-como-usarla",
+    "href": "index.html#y-como-usarla",
+    "title": "Taller_nbdev",
+    "section": "Y Como usarla",
+    "text": "Y Como usarla\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "Taller_nbdev"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsplit_words\n\n split_words (string)\n\nUna funcion que va a dividir todo en sus palabras\nLa funcion divide a un estring en palabras de caracteres juntos\n\nsplit_words (\"Si se mantiene en servicio la página es posible ver los cambios que se hacen con cierto retraso.\")\n\n['Si',\n 'se',\n 'mantiene',\n 'en',\n 'servicio',\n 'la',\n 'página',\n 'es',\n 'posible',\n 'ver',\n 'los',\n 'cambios',\n 'que',\n 'se',\n 'hacen',\n 'con',\n 'cierto',\n 'retraso.']\n\n\n\nsource\n\n\ncaracteres_palabra\n\n caracteres_palabra (string)\n\n*Caracteres por palabra strng: Una cadena de caracteres\nreturns Una lista con el numero de caracteres por palabra*\nEn este caso la función nos regresa una lista con erl numero de caracteres por palabra\n\ncaracteres_palabra(string_exemplo)\n\n[2, 2, 8, 2, 8, 2, 6, 2, 7, 3, 3, 7, 3, 2, 5, 3, 6, 8]",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
