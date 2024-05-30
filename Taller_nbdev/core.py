@@ -9,7 +9,7 @@ def split_words(string ):
     return string.split(' ')
     
 
-# %% ../nbs/00_core.ipynb 6
+# %% ../nbs/00_core.ipynb 7
 def caracteres_palabra(string):
     """Caracteres por palabra 
     strng: Una cadena de caracteres 
